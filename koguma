@@ -4,3 +4,7 @@ for (( i = 1 ; i <= 3 ; i++ ))
 do
   echo "$i times speak[ Magandang hapon po ]"
 done
+
+echo "Add commit test"
+
+echo "Thank you for all members in Philippines."
